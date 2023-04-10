@@ -1,0 +1,25 @@
+
+
+Touhou Reiiden ~ Highly Responsive to Prayers [1]
+Touhou Fuumaroku ~ the Story of Eastern Wonderland [2]
+Touhou Yumejikuu ~ Phantasmagoria of Dim.Dream [3]
+Touhou Gensokyo ~ Lotus Land Story [4]
+Touhou Kaikidan ~ Mystic Square [5]
+Touhou Koumakyou ~ the Embodiment of Scarlet Devil [6]
+Touhou Youyoumu ~ Perfect Cherry Blossom [7]
+Touhou Suimusou ~ Immaterial and Missing Power [7.5]
+Touhou Eiyashou ~ Imperishable Night [8]
+Touhou Kaeidzuka ~ Phantasmagoria of Flower View [9]
+Touhou Bunkachou ~ Shoot the Bullet [9.5]
+Touhou Fuujinroku ~ Mountain of Faith [10]
+Touhou Hisouten ~ Scarlet Weather Rhapsody [10.5]
+Touhou Chireiden ~ Subterranean Animism [11]
+Touhou Seirensen ~ Undefined Fantastic Object [12]
+Touhou Hisoutensoku [12.3]
+Touhou Bunkachou ~ Double Spoiler [12.5]
+Yousei Daisensou ~ Touhou Sangetsusei [12.8]
+Touhou Shinreibyou ~ Ten Desires [13]
+Touhou Shinkirou ~ Hopeless Masquerade [13.5]
+Touhou Kishinjou ~ Double Dealing Character [14]
+
+And a emulator to play TH1-TH5, which are PC-98 only.
